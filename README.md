@@ -13,7 +13,7 @@ The "game" takes place on a two-dimensional grid consisting of "living" and "dea
 More on [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 ##Usage
-To use the program, go to the Game-of-Life directory and in terminal run the game-of-life.py using following command:
+To use the program, go to the Game-of-Life directory and in terminal run the game-of-life.py using following command:<br>
 `python game-of-life.py`
 
 ##Patterns
