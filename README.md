@@ -10,7 +10,7 @@ The "game" takes place on a two-dimensional grid consisting of "living" and "dea
 + __Reproduction:__ if a dead cell is surrounded by exactly three cells, it becomes a live cell.
 <br>
 
-More on [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)[Wikipedia]
+More on [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 ##Usage
 To use the program, go to the Game-of-Life directory and in terminal run the game-of-life.py using following command:
