@@ -8,6 +8,9 @@ The "game" takes place on a two-dimensional grid consisting of "living" and "dea
 + __Stasis:__ if a living cell is surrounded by two or three living cells, it survives.
 + __Underpopulation:__ if a living cell is surrounded by fewer than two living cells, it dies.
 + __Reproduction:__ if a dead cell is surrounded by exactly three cells, it becomes a live cell.
+<br>
+
+More on [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)[Wikipedia]
 
 ##Usage
 To use the program, go to the Game-of-Life directory and in terminal run the game-of-life.py using following command:
@@ -30,6 +33,7 @@ To uses them, just change the `pattern ` variable in `game-of-life.py` file to o
 + blinker
 + toad
 <br>
+
 For example, if you want to use glider pattern, change pattern variable from:<br>
 `pattern = patterns.random`
 <br>to:<br>
